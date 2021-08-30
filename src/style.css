@@ -1,1 +1,28 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: #afeeee;
+  font-family: "Bebas Neue", cursive;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title {
+  letter-spacing: 5px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-weight: 900;
+  font-size: 300%;
+}
+.card {
+  margin-right: 35%;
+  margin-left: 35%;
+  background: #f0f8ff;
+  box-shadow: 10px 5px 5px black;
+  padding-bottom: 20px;
+}
+
+.btn {
+  margin: 50px;
+  font-family: "Bebas Neue", cursive;
+  background-color: #5f9ea0;
+}
